@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4F1coc0Ga0p8nZigbKZ4gMsmr/JsCdfNRoupsr9HxShb9PuO6T7ry+pYN7ayFhMpqxeEsXTYBKmKWZwa0wNxVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jails\\Documents\\code\\AspNetMediatr\\AspNetMediatr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jails\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\jails\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.0\\mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\jails\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
